@@ -1,7 +1,0 @@
-init_config:
-    min_collection_interval: 120
-    metrics_name: aws.ebs.burst_balance
-
-instances:
-    - region: 'ap-northeast-1'
-
